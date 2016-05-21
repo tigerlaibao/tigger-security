@@ -11,7 +11,7 @@ public interface Const {
     /**
      * 要校验的Http Method
      */
-    List<String> FILTER_METHODS = Arrays.asList(new String[]{"POST" , "PUT" , "DELETE" });
+    List<String> FILTER_METHODS = Arrays.asList("POST" , "PUT" , "DELETE");
 
     /**
      * cookie中token的名称
