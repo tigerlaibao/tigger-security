@@ -19,7 +19,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 放Csrf攻击Filter
+ * 防Csrf攻击Filter
  * Created by laibao
  */
 public class CsrfFilter implements Filter {
